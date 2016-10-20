@@ -8,6 +8,9 @@
     "email": "dhana@gmail.com",
     "url": "DhanaPOC"
   },
+  "engines": {
+    "node": "4.2.x"
+  },
   "contributors": [],
   "files": [
     "server",
